@@ -4,7 +4,7 @@
 #
 Name     : libnova
 Version  : 0.15.0
-Release  : 2
+Release  : 3
 URL      : https://sourceforge.net/projects/libnova/files/libnova/v%200.15.0/libnova-0.15.0.tar.gz
 Source0  : https://sourceforge.net/projects/libnova/files/libnova/v%200.15.0/libnova-0.15.0.tar.gz
 Summary  : No detailed summary available
